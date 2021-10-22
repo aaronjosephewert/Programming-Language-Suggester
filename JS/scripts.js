@@ -1,9 +1,5 @@
-  function myFunctionNew() {
-    alert("You should learn Python!")
-  }
-  function myFunctionOld() {
-    alert("You should learn Ruby!")
-  }
+//need function for question 1
+
   function myFunctionLarge() {
     alert("You should learn C#!")
   }

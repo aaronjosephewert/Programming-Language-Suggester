@@ -16,10 +16,16 @@
   
   <form name="PLS" id="PLS">
     <div>
-      <h3>Are you new to coding?</h3>
+      <h3 id="question1">For how long have you been coding?</h3>
       
-      <button onclick="myFunctionNew()">Yes</button>
-      <button onclick="myFunctionOld()">No</button>
+      <input type="radio" id="0-6 months" name="months_coding" value="0-6 months">
+      <label for="months_coding">0-6 months</label><br>
+      <input type="radio" id="6-12 months" name="months_coding" value="6-12 months">
+      <label for="months_coding">6-12 months</label><br>
+      <input type="radio" id="More than 12 months" name="months_coding" value="More than 12 months">
+      <label for="months_coding">More than 12 months</label><br>
+
+      <button onclick="myCodingExperience()">Submit</button>
 
     </div>
 
