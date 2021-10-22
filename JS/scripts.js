@@ -1,4 +1,10 @@
-//need function for question 1
+  function myFunctionVisual() {
+    alert("Creative people focus on Javascript!")
+  }
+
+  function myFunctionData() {
+    alert("Data-driven people should learn Ruby!")
+  }
 
   function myFunctionLarge() {
     alert("You should learn C#!")

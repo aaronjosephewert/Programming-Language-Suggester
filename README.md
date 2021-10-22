@@ -1,37 +1,46 @@
-# _{Application Name}_
+# _Programming Language Suggester_
 
-#### By _**{List of contributors}**_
+#### By _**Aaron Ewert**_
 
-#### _{Brief description of application}_
+#### A guide towards your first programming language
 
 ## Technologies Used
 
-- _List all_
-- _the major technologies_
-- _you used in your project_
-- _here_
+- HTML
+- CSS
+- Javascript
+- Git
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+This application is designed to analyze information given by the user so it can guide him/her in the correct direction by suggesting which programming language he/she should pursue first.
 
 ## Setup/Installation Requirements
 
-- _This is a great place_
-- _to list setup instructions_
-- _in a simple_
-- _easy-to-understand_
-- _format_
+There are multiple ways to access this application. For the most effective way to run it, please follow these instructions:
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+Clone repository to your desktop (see instructions below)
+
+1. Navigate to he main page of the Github repository.
+2. Click on the green "code" button located at the top right hand side of the page.
+3. Copy the "HTTPS" url.
+4. Open terminal and navigate to the location where you want to store the cloned repository.
+5. Type git clone, and paste the URL you copied from the Github repository.
+6. Press Enter to create your local clone.
+7. Once you have cloned the repository to your desired location, open it and navigate to the top level of of the directory, where you will find "Programming-Language-Suggester."
+
+Open index.html in your browser.
+
+Below is a link to the Github repository:
+
+https://github.com/aaronjosephewert/Programming-Language-Suggester
 
 ## Known Bugs
 
-- _Any known issues_
-- _should go here_
+- no known bugs at this time
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}_
-
-Copyright (c) _date_ _author name(s)_
+License Copyright: Copyright © 2021 Free Software Foundation, Inc.
+License License: "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed." (www.gnu.org/licenses/gpl-3.0.en.html).
+License Contact: Free Software Foundation (fsf.org).
